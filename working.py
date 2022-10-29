@@ -1,4 +1,3 @@
-
 sentence = input('text')
 s=input('s')
-print(sentence.upper(s))
+print(sentence.count(s))
