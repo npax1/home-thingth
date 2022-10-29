@@ -1,5 +1,4 @@
-text=input("ntrcn")
-if str(text)==str(text)[::-1]:
-    print("Паліндроми")
-else:
-    print("not Паліндроми")
+
+sentence = input('text')
+s=input('s')
+print(sentence.upper(s))
